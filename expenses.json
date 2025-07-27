@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1,
+    "amount": 2000.0,
+    "description": "Tv Subscriptions",
+    "category": "Entertainment",
+    "date": "2025-07-27",
+    "time": "14:45"
+  },
+  {
+    "id": 2,
+    "amount": 200.0,
+    "description": "Eggs",
+    "category": "Food",
+    "date": "2025-07-27",
+    "time": "14:45"
+  },
+  {
+    "id": 3,
+    "amount": 300.0,
+    "description": "internet",
+    "category": "Entertainment",
+    "date": "2025-07-27",
+    "time": "14:46"
+  },
+  {
+    "id": 4,
+    "amount": 3000.0,
+    "description": "Taxi",
+    "category": "Food",
+    "date": "2025-07-27",
+    "time": "14:46"
+  }
+]
