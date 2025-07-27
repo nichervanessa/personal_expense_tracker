@@ -1,4 +1,4 @@
-# personal_expense_tracker
+# Personal Expense Tracker
 
 A modern, cross-platform personal expense tracking application built with Python and Flet. Take control of your finances with real-time analytics, category management, and beautiful visualizations that work on desktop, web, and mobile.
 
